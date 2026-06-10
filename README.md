@@ -32,18 +32,8 @@
     <h3 style="color: #ffffff; margin-top: 0; margin-bottom: 5px;">API REST - Controle de Compras e Fornecedores</h3>
     <p style="color: #cccccc; margin-bottom: 5px;"><strong>Java - Spring Boot - JPA - MySQL - Swagger</strong></p>
     <p style="line-height: 1.5;">API REST modelando um fluxo real de compras corporativas: criação de pedidos, gestão de fornecedores e acompanhamento de status. CRUD completo com validações, persistência com JPA e documentação automática via Swagger.</p>
-  </div>
 
-  <h2 style="color: #ffffff; margin-top: 30px; margin-bottom: 15px;">Contato</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://www.linkedin.com/in/mateus-cravari-5b5889211" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
 
-   <a href="mailto:mateuscravari@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
 
-  </div>
-
-</div>
+     
+ 
