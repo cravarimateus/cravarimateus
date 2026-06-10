@@ -5,7 +5,7 @@
 
   <p style="margin-top: 20px; line-height: 1.6;">Me chamo Mateus, tenho experiência profissional em compras corporativas com ERP TOTVS Protheus e estou em transição para desenvolvimento de software. Atualmente cursando Análise e Desenvolvimento de Sistemas na UNINOVE e construindo projetos back-end com Java e Spring Boot para aplicar o que aprendo na prática.</p>
 
-  <h2 style="color: #ffffff; margin-top: 30px; margin-bottom: 15px;"><> Linguagens e Tecnologias</h2>
+  <h2 style="color: #ffffff; margin-top: 30px; margin-bottom: 15px;">Linguagens e Tecnologias</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
@@ -49,15 +49,14 @@
 
   <h2 style="color: #ffffff; margin-top: 30px; margin-bottom: 15px;">Contato</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="www.linkedin.com/in/mateus-cravari-5b5889211" target="_blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/mateus-cravari-5b5889211" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://github.com/cravarimateus" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="mailto:mateuscravari@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
+
+   <a href="mailto:mateuscravari@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
   </div>
 
 </div>
