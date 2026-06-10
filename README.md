@@ -19,20 +19,7 @@
     <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST API">
   </div>
 
-  <h2 style="color: #ffffff; margin-top: 30px; margin-bottom: 15px;">Experiência Profissional</h2>
-  <div style="background-color: #333333; padding: 15px; border-radius: 8px; margin-bottom: 15px;">
-    <h3 style="color: #ffffff; margin-top: 0; margin-bottom: 5px;">Assistente de Compras</h3>
-    <p style="color: #cccccc; margin-bottom: 5px;"><strong>Cremme Móveis e Decorações Ltda</strong></p>
-    <p style="color: #cccccc; font-size: 0.9em; margin-bottom: 10px;">Jul/2023 - Abr/2026</p>
-    <p style="line-height: 1.5;">Operação diária do ERP TOTVS Protheus em módulos de compras e faturamento. Desenvolvimento e acompanhamento de KPIs de fornecedores (prazo de entrega, lead time, conformidade). Relatórios gerenciais em Excel com tabelas dinâmicas e fórmulas avançadas. Participação em homologação de fornecedores com foco em redução de custos e melhoria de SLA.</p>
-  </div>
-  <div style="background-color: #333333; padding: 15px; border-radius: 8px; margin-bottom: 15px;">
-    <h3 style="color: #ffffff; margin-top: 0; margin-bottom: 5px;">Operador de Cobrança / Atendimento</h3>
-    <p style="color: #cccccc; margin-bottom: 5px;"><strong>Celta Crédito Assessoria e DZ Call Center</strong></p>
-    <p style="color: #cccccc; font-size: 0.9em; margin-bottom: 10px;">Out/2019 - Set/2021</p>
-    <p style="line-height: 1.5;">Comunicação estruturada, trabalho sob metas e gestão de alto volume de interações.</p>
-  </div>
-
+ 
   <h2 style="color: #ffffff; margin-top: 30px; margin-bottom: 15px;">Formação</h2>
   <div style="background-color: #333333; padding: 15px; border-radius: 8px; margin-bottom: 15px;">
     <h3 style="color: #ffffff; margin-top: 0; margin-bottom: 5px;">Tecnologia em Análise e Desenvolvimento de Sistemas</h3>
